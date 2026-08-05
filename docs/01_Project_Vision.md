@@ -1,4 +1,4 @@
-# 🎵 FANG (FAvourite soNG)
+# 🎵 FANG 
 
 Version: 0.1
 
