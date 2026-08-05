@@ -1,0 +1,24 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Flutter
+.dart_tool/
+build/
+
+# Node
+node_modules/
